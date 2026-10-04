@@ -1,0 +1,26 @@
+{
+ "format": 1,
+ "countries": {
+  "SY": {
+   "version": 1,
+   "count": 2582,
+   "own": 0,
+   "bytes": 23857572,
+   "digest": "3d0c3a0ef1998fa51360163a0fbba7980b75cc7b5b5a56c023486973053b4f91",
+   "parts": [
+    {
+     "path": "SY/photos-v1-1.zip",
+     "bytes": 19066794,
+     "sha256": "85287be2095b2c623a6b45e2eda050b857584383ba4118245913390b64989bbe",
+     "count": 2038
+    },
+    {
+     "path": "SY/photos-v1-2.zip",
+     "bytes": 4790778,
+     "sha256": "4782cb62a2c3f17a1025142845b319d892d7b16b21d59bcce1989c0dcc70626f",
+     "count": 544
+    }
+   ]
+  }
+ }
+}
