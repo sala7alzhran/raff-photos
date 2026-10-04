@@ -2,23 +2,23 @@
  "format": 1,
  "countries": {
   "SY": {
-   "version": 2,
-   "count": 2582,
+   "version": 3,
+   "count": 2581,
    "own": 0,
-   "bytes": 34384202,
-   "digest": "09f022abec7a4ebe1a0957d7372569fbe97dc903cdb135101b61e18a8bf31abd",
+   "bytes": 34381772,
+   "digest": "31783862617d7396caf5b78d64c64c8554f4453677b66968dacf6a0befb9cf7b",
    "parts": [
     {
-     "path": "SY/photos-v2-1.zip",
+     "path": "SY/photos-v3-1.zip",
      "bytes": 19004310,
-     "sha256": "30c83c6e0fe4655b5d6118c5b7b6ad461f098dec54e6b8741193ba6c0579c526",
+     "sha256": "82ace4f33b00ef68d8ba27eb0d528ef7b4b2c4f62cc58c771d9b34d58adef477",
      "count": 1443
     },
     {
-     "path": "SY/photos-v2-2.zip",
-     "bytes": 15379892,
-     "sha256": "7004c5d87166885853de3ce678d6e4dbacca41f843a8cfda9b6625899ddc4c1d",
-     "count": 1139
+     "path": "SY/photos-v3-2.zip",
+     "bytes": 15377462,
+     "sha256": "617173e76064dcb2ee20ef355d87cb3952117c98ba464873619feb8298783bc4",
+     "count": 1138
     }
    ]
   }
