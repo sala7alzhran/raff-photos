@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "trained": "2026-10-05",
+  "note": "first reader: synthetic + 38 real prescriptions",
+  "files": [
+    {
+      "name": "encoder.onnx",
+      "bytes": 23766214,
+      "sha256": "f04760fc53e8393b13e152d3519888bbb693543bc82d098db2130ec79e06e359"
+    },
+    {
+      "name": "decoder.onnx",
+      "bytes": 13822718,
+      "sha256": "b3aa73105fbc3727d8022551d8b1b21b00e00f5e37478675091e05843a0cc2af"
+    },
+    {
+      "name": "names.json",
+      "bytes": 402813,
+      "sha256": "1fe7042d3d4d84127c0a2e3a6e16c0b1aed3ac3aae06003a7560ee2ea508406e"
+    }
+  ],
+  "from": "prod1"
+}
