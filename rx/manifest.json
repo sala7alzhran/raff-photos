@@ -1,23 +1,23 @@
 {
-  "version": 2,
-  "trained": "2026-10-05",
-  "note": "colour limits for the suggestions",
+  "version": 3,
+  "trained": "2026-10-09",
+  "note": "1095 prescriptions",
   "files": [
     {
       "name": "encoder.onnx",
       "bytes": 23766214,
-      "sha256": "f04760fc53e8393b13e152d3519888bbb693543bc82d098db2130ec79e06e359"
+      "sha256": "20574cdb7ce33371df6f23d123bffeab09a389d29592f1b2b4bc8f8315e4ef28"
     },
     {
       "name": "decoder.onnx",
-      "bytes": 13822718,
-      "sha256": "b3aa73105fbc3727d8022551d8b1b21b00e00f5e37478675091e05843a0cc2af"
+      "bytes": 14182398,
+      "sha256": "b893fe13b74780c9a9142b9f10ccfa543577ab57657ba2433fa7b00cbbcab922"
     },
     {
       "name": "names.json",
-      "bytes": 402852,
-      "sha256": "da4e2b2bd6fe3b30341f58bf13562825ce79277f3f2ff5b9c30660014a61ba9a"
+      "bytes": 423082,
+      "sha256": "444fa004a53139a31c9ab02e6c63f4321c2cf6d68f66ddca53ef8c9947974801"
     }
   ],
-  "from": "prod1"
+  "from": "prod2"
 }
